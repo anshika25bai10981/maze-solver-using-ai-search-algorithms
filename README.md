@@ -135,8 +135,11 @@ maze_solverusing ai search algorithms/
 ##  Author
 
 NAME: Anshika Agnihotri
+
 COURSE: BTECH (First Year)
-PROGARM: CSE(AI/ML)
+
+PROGRAM: CSE(AI/ML)
+
 SUBJECT: Fundamentals of AI/ML
 
 
